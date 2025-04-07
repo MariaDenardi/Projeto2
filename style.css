@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 body {
     height: 100vh;
     box-sizing: box-border;
@@ -12,3 +13,7 @@ body {
 .título-destque {
     color: #8a008a;
 }
+
+.apresentacao {
+    display: flex;
+    align-items: center;
